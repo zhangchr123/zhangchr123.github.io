@@ -4,13 +4,13 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: RUI-志
+subtitle: "苦逼学生的博客"
+description: "RUI的个人博客"
+keywords: RUI-志, Zhuang Ma, mzlogin, rui-zhi, 苦逼学生
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: mzlogin/mzlogin.github.io
+repository: zhangchr123/zhangchr123.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
